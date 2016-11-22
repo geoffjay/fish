@@ -21,4 +21,4 @@ setenv -x LESS_TERMCAP_ue (set_color normal)
 setenv -x LESS_TERMCAP_us (set_color -o green)
 
 # grep colors
-setenv -x GREP_OPTIONS "--color=auto"
+#setenv -x GREP_OPTIONS "--color=auto"
