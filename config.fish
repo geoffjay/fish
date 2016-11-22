@@ -14,4 +14,4 @@ function su
 end
 
 # Additional eval calls
-#eval (python -m virtualfish)
+eval (python -m virtualfish)
