@@ -1,6 +1,6 @@
 # Language Default
-set -x LC_ALL en_US.UTF-8
-set -x LC_CTYPE en_US.UTF-8
+#set -x LC_ALL en_US.UTF-8
+#set -x LC_CTYPE en_US.UTF-8
 
 # Add user installed to the beginning of PATH
 set -x PATH "/usr/local/bin" $PATH

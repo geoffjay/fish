@@ -1,3 +1,1 @@
-function fish_prompt
-    powerline $status --shell bare ^/dev/null
-end
+/home/crdc/.local/share/omf/themes/bobthefish/fish_prompt.fish
