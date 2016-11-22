@@ -1,0 +1,6 @@
+[submodule "plugins/bass"]
+	path = plugins/bass
+	url = https://github.com/edc/bass.git
+[submodule "plugins/virtualfish"]
+	path = plugins/virtualfish
+	url = https://github.com/adambrenecki/virtualfish.git

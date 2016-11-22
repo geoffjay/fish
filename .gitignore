@@ -1,0 +1,7 @@
+**/*.*~
+**/*.swp
+
+fishd.*
+
+/functions/__bass.py
+/functions/bass.fish
