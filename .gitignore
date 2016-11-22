@@ -3,5 +3,7 @@
 
 fishd.*
 
+/conf.d/omf.fish
+
 /functions/__bass.py
 /functions/bass.fish
